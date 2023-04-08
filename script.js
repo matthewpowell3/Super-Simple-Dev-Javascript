@@ -1,1 +1,4 @@
-console.log('Hello!');
+// Console Log
+console.log('hello')
+
+// Variable
